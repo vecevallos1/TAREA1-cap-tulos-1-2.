@@ -88,25 +88,89 @@ Se debe observar que no se usa coma en la respuesta 26 750 g. En el sistema mét
 
 Ejemplo 2:
 
+1 kilovatio-hora (kWh) = 3,6 x 10 6   J = 3,6 millones de julios
 
 Capitulo-2
 
 2-1.Estructura atomica
 
+Un átomo es un arreglo complejo de electrones cargados negativamente dispuestos en capas definidas alrededor de un núcleo cargado positivamente. Este núcleo contiene la mayor parte de la masa del átomo y está compuesto por protones y neutrones (a excepción del hidrógeno común que tiene un solo protón). Todos los átomos son aproximadamente del mismo tamaño. Una unidad de longitud conveniente para medir tamaños atómicos es el angstrom (Å), que se define como 1 × 10 -10 metros. El diámetro de un átomo es de aproximadamente 2-3 Å.
+
+
 2-2.Carga electrica
+
+En física, la carga, también conocida como carga eléctrica o carga electrostática y simbolizada con la letra q , es una característica de una unidad de materia que expresa la medida en que tiene más o menos electrones que protones . En los átomos , el electrón lleva una carga elemental o unitaria negativa; el protón lleva una carga positiva. Los dos tipos de carga son iguales y opuestos, si hay más electrones que protones, el átomo tiene carga negativa pero si hay menos electrones que protones, el átomo tiene una carga positiva. 
+
+
 
 2-3.Voltaje, corriente, resistencia 
 
+El flujo de electricidad a través de un objeto, como un cable, se conoce como corriente (I). Se mide en amperios (A); si la corriente es muy pequeña, se describe en miliamperios (mA), 1000 mA = 1A. La fuerza impulsora (presión eléctrica) detrás del flujo de una corriente se conoce como voltaje y se mide en voltios (V) (el voltaje también puede denominarse diferencia de potencial). La propiedad de un material que limita el flujo de corriente se conoce como su resistencia (R), la unidad de resistencia es el ohmio (Ω).
+
+La relación entre corriente, voltaje y resistencia está expresada por la Ley de Ohm. Este establece que la corriente que fluye en un circuito es directamente proporcional al voltaje aplicado e inversamente proporcional a la resistencia del circuito, siempre que la temperatura permanezca constante.
+
+                       Ley de Ohm: Corriente (I) = Voltaje (V) / Resistencia (R)
+
+
+
 2-4.Fuentes de voltaje y de corriente
+
+Características de las fuentes de voltaje
+Una fuente de voltaje genera una diferencia de potencial entre sus dos terminales. Cuando estos dos terminales se unen a una red de componentes interconectados que forman un camino conductor continuo, fluirá corriente.
+
+Unidades
+El valor de una fuente de voltaje es la diferencia de potencial generada entre los dos terminales de la fuente y, en consecuencia, el valor se informa en voltios. Un voltio es igual a un julio por culombio. Así, el voltaje indica la cantidad de energía potencial por culombio de carga eléctrica. Para poner esto en términos prácticos, si una fuente de 5 V y una fuente de 10 V se conectan a dos circuitos idénticos, la fuente de 10 V impulsa la carga eléctrica con el doble de energía y, en consecuencia, producirá el doble de corriente.
+
+
+Características de las fuentes de corriente
+Una fuente de corriente establece una cantidad específica de corriente eléctrica en una porción de un circuito. El valor de la fuente de corriente es la magnitud del flujo de corriente creado por la fuente, y el símbolo incluye una flecha para indicar la dirección de la corriente.
+
+Unidades
+El valor de una fuente de corriente se expresa en amperios. Esta unidad nos dice la velocidad a la que fluye la carga eléctrica a través de un punto dado en un circuito. Si medimos una corriente de un amperio, sabemos que un culombio de carga pasa por cualquier punto de la rama medida cada segundo.
 
 2-5.Resistores
 
+La resistencia es un componente eléctrico pasivo que crea resistencia en el flujo de corriente eléctrica. En casi todas las redes eléctricas y circuitos electrónicos se pueden encontrar. La resistencia se mide en ohmios (Ω). Un ohmio es la resistencia que se produce cuando una corriente de un amperio (A) pasa a través de una resistencia con una caída de un voltio (V) entre sus terminales. La corriente es proporcional al voltaje a través de los extremos del terminal. Esta relación está representada por la ley de Ohm :
+
+                                  Ley de Ohm: Resistencia (R) = Voltaje (V) / Corriente (I)
+                                  
+Las resistencias se utilizan para muchos propósitos. Algunos ejemplos incluyen limitación de corriente eléctrica, división de voltaje, generación de calor, circuitos de carga y adaptación, control de ganancia y configuración de constantes de tiempo.
+
+Definición y símbolo de resistencia
+
+El símbolo IEC internacional tiene forma rectangular con conductores en cada extremo, como se muestra en la figura de la izquierda. En los EE. UU., el estándar ANSI es muy común y representa una resistencia fija como una línea en zigzag (que se muestra a la derecha).
+
+![Upor_simbol1](https://user-images.githubusercontent.com/116820615/201958488-f70ea703-bc28-41d0-8bb2-af1f48f177bd.png)
+
+Código de color de la resistencia
+ 
+El valor de la resistencia y la tolerancia se indican con varias bandas de colores alrededor del cuerpo del componente. Esta técnica de marcado de componentes electrónicos ya se desarrolló en la década de 1920. La tecnología de impresión aún no estaba muy desarrollada, lo que hacía que los códigos numéricos impresos fueran demasiado difíciles en componentes pequeños. Hoy en día, el código de color todavía se usa para la mayoría de las resistencias axiales de hasta un vatio. En la figura anterior, se muestra un ejemplo con cuatro bandas de color. En este ejemplo, las dos primeras bandas determinan los dígitos significativos del valor de la resistencia, la tercera banda es el factor multiplicador y la cuarta banda da la tolerancia. Cada color representa un número diferente y se puede buscar en una tabla de códigos de colores de resistencias o usando una calculadora de códigos de colores de resistencias .
+
+tabla de códigos de colores de resistencias:
+![D_NQ_NP_967951-MLM28554314531_112018-O](https://user-images.githubusercontent.com/116820615/201959522-a426179b-3839-4c56-a9cf-941fab7da92a.jpg)
+
 2-6.El circuito electrico
+
+Un circuito eléctrico es la combinación de diferentes componentes activos y pasivos como resistencias , capacitores , inductores , diodos , transistores , etc. que forman una red eléctrica. En un circuito de bucle cerrado, la corriente eléctrica fluye desde la fuente (como una batería) en el material conductor (por ejemplo, alambres y cables) hasta la carga (es decir, una bombilla) y, por lo tanto, regresa a la fuente.
+
 
 2-7.Mediciones de circuito basicas
 
+
+
 2-8.Seguridad electrica 
 
+Conceptos básicos de seguridad eléctrica.
+
+-No trabaje con conductores expuestos que lleven 50 voltios o más.
+
+-Asegúrese de que el equipo eléctrico esté correctamente conectado, puesto a tierra y en buen estado de funcionamiento.
+
+-Los cables de extensión no pueden usarse como cableado permanente y deben retirarse después de un uso temporal para una actividad o evento.
+
+-Los equipos de alto amperaje, como calefactores, acondicionadores de aire portátiles y otros equipos, deben enchufarse directamente en receptáculos de pared permanentes.
+
+-Los ambientes húmedos pueden aumentar el riesgo de una descarga eléctrica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
