@@ -19,8 +19,15 @@
 
 *1.1  OBJETIVO GENERAL*
 
+-Comprender como funcionan las unidades de medicion electrica asi como tambien sus unidades de medicion.
+
 *1.2  OBJETIVOS ESPECIFICOS*
 
+-Comparar y analizar los divesos terminos de unidades como tambien sus cantidades
+
+-Comprender como funciona el voltaje, amperaje y la resistencia sobre un circuito.
+
+-Aprender a calcular resistencia y a convertir cantidades a diferentes unidades.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,6 +39,9 @@ Capitulo-1
 1.1-Unidades de medicion
 
 Las unidades de medicion son las unidades que se usan para representar cantidades físicas como longitud, masa, temperatura, corriente, área, volumen, intensidad, etc.
+
+![MEDIDAS-TABLA1](https://user-images.githubusercontent.com/116820615/201978206-a61add70-74e8-403d-98c8-17e98c0e8ba0.jpg)
+
 
 1.2-Notacion cientifica
 
@@ -156,9 +166,19 @@ Un circuito eléctrico es la combinación de diferentes componentes activos y pa
 
 2-7.Mediciones de circuito basicas
 
+Las unidades de medida eléctricas estándar utilizadas para la expresión de tensión, corriente y resistencia son el voltio [  V  ], el amperio [  A  ] y el ohmio [  Ω  ] respectivamente.
 
+Estas unidades eléctricas de medida se basan en el Sistema Internacional (métrico), también conocido como el Sistema SI, mientras que otras unidades eléctricas de uso común se derivan de las unidades básicas del SI.
+
+A veces, en circuitos y sistemas eléctricos o electrónicos, es necesario utilizar múltiplos o submúltiplos (fracciones) de estas unidades de medida eléctricas estándar cuando las cantidades que se miden son muy grandes o muy pequeñas.
+
+La siguiente tabla proporciona una lista de algunas de las unidades de medida eléctricas estándar utilizadas en fórmulas eléctricas y valores de componentes.
 
 2-8.Seguridad electrica 
+
+Las descargas eléctricas ocurren cuando la corriente pasa a través del cuerpo. La electricidad viaja a través de circuitos cerrados y las personas, a veces trágicamente, pueden convertirse en parte del circuito. Cuando una persona recibe una descarga eléctrica, la electricidad fluye entre las partes del cuerpo oa través del cuerpo hasta la tierra. Esto puede suceder si alguien toca ambos cables de un circuito energizado, toca un cable del circuito mientras está parado sin protección o toca una pieza de metal que se ha energizado.
+
+La electrocución se refiere a la lesión o dosis letal de energía eléctrica. La electricidad también puede provocar contracciones musculares forzadas o caídas. La gravedad de la lesión depende de la cantidad de corriente que fluye a través del cuerpo, la trayectoria de la corriente a través del cuerpo, el tiempo que el cuerpo permanece en el circuito y la frecuencia de la corriente.
 
 Conceptos básicos de seguridad eléctrica.
 
@@ -174,20 +194,11 @@ Conceptos básicos de seguridad eléctrica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS*
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*4. VIDEO*
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 *5. CONCLUSIONES*
+La electricidad es una parte esencial de la vida moderna e importante para la economía estadounidense. Las personas usan la electricidad para iluminación, calefacción, aire acondicionado y refrigeración y para operar electrodomésticos, computadoras, electrónica, maquinaria y sistemas de transporte público.
 
+Un circuito eléctrico es un camino para la transmisión de corriente eléctrica. Cuando la corriente eléctrica se mueve a través de un circuito, la energía eléctrica de la corriente se transfiere a dispositivos que la transforman en otras formas de energía que pueden realizar trabajo, como proporcionar energía a luces, electrodomésticos y otros dispositivos.
+Comprender los circuitos eléctricos y de corriente es fundamental para entender cómo funciona la electricidad. La corriente eléctrica es un flujo de partículas cargadas, incluidos electrones, protones e iones. La corriente se describe como continua o alterna, dependiendo de cómo se muevan las cargas a través de un circuito. En corriente continua (DC), las cargas eléctricas siempre se mueven en la misma dirección a través del circuito. En la corriente alterna (AC), las cargas pulsan de un lado a otro muchas veces por segundo a medida que la corriente se mueve a través del circuito.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
